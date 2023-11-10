@@ -1,0 +1,1 @@
+{"version":3,"sources":["myjob.css"],"names":[],"mappings":"AACA,KACE,iBAAkB,CAClB,wBACF,CAEA,IACE,eACF","file":"myjob.03f9a269.css","sourceRoot":"..","sourcesContent":["@charset \"ISO-8859-1\";\r\nbody {\r\n  text-align: center;\r\n  background-color: #f0e8c5;\r\n}\r\n\r\ndiv{\r\n  margin-top: 15px;\r\n}\r\n"]}
